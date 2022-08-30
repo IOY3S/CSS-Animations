@@ -1,0 +1,30 @@
+<!doctype html class="my-2 rounded-full h-10 w-[16rem] px-4">
+<html lang="en">
+
+<head>
+	<!-- Required meta tags -->
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<title>Animated Hamburger Menu</title>
+	<link rel="stylesheet" href="./main.css">
+</head>
+
+<body>
+	<div class="menu">
+		<link rel="stylesheet" href="style.css" />
+		<div class="hamberger-menu"></div>
+	</div>
+
+	<script>
+		const menus = document.querySelectorAll(".menu");
+		menus.forEach(function (menu) {
+			const hambergerMenu = menu.querySelector(".hamberger-menu");
+			menu.addEventListener("click", function () {
+				hambergerMenu.classList.toggle("open");
+			});
+		});
+	</script>
+</body>
+
+</html>
