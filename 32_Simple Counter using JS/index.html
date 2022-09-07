@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+	<!-- Required meta tags -->
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<!-- font-awesome icons css  -->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"
+		integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA=="
+		crossorigin="anonymous" />
+
+	<title>Simple Counter using JavaScript</title>
+	<link rel="stylesheet" href="./main.css">
+</head>
+
+<body>
+	<div class="container">
+		<h1>Counter</h1>
+		<h1 id="counter">0</h1>
+		<button id="incr">+</button>
+		<button id="decr">-</button>
+	</div>
+
+	<script>
+		const counter = document.getElementById("counter");
+		const incr = document.getElementById("incr");
+		const decr = document.getElementById("decr");
+
+		let count = 0;
+		incr.addEventListener("click", () => {
+			count++;
+			counter.innerText = count;
+		});
+
+		decr.addEventListener("click", () => {
+			count--;
+			counter.innerText = count;
+		})
+	</script>
+</body>
+
+</html>
