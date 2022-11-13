@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+	<!-- Required meta tags -->
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<!-- Google Fonts  -->
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+
+	<!-- Font Awesome Icons  -->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"
+		integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA=="
+		crossorigin="anonymous" />
+	<link rel="stylesheet" href="main.css">
+
+	<title>Animated Navbar Toggle using javascript</title>
+</head>
+
+<body>
+	<div class="navbar">
+		<ul class="nav-links" id="nav-links">
+			<li>
+				<a href="#" class="nav-link">Home</a>
+			</li>
+			<li>
+				<a href="#" class="nav-link">About</a>
+			</li>
+			<li>
+				<a href="#" class="nav-link">Contact</a>
+			</li>
+			<li>
+				<a href="#" class="nav-link">Privacy Policy</a>
+			</li>
+		</ul>
+		<button class="toggle-nav" id="toggle-nav">
+			<i class="fas fa-bars"></i>
+		</button>
+	</div>
+
+	<script>
+		let toggleBtn = document.getElementById("toggle-nav");
+		let navLinks = document.getElementById("nav-links");
+		let isNavOpen = false;
+
+		toggleBtn.addEventListener('click', () => {
+			if (isNavOpen) {
+				toggleBtn.innerHTML = `<i class="fas fa-bars"></i>`;
+				isNavOpen = false;
+				navLinks.classList.remove("toggled");
+			} else {
+				toggleBtn.innerHTML = `<i class="fas fa-times"></i>`;
+				isNavOpen = true;
+				navLinks.classList.add("toggled");
+			}
+		})
+	</script>
+</body>
+
+</html>
