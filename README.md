@@ -109,3 +109,5 @@ Repository for study https://github.com/codescientists
     http://127.0.0.1:5500/55_Name%20Lightning%20Animation%20using%20CSS/index.html
 56. Neon button hover effect:
     http://127.0.0.1:5500/56_Neon%20button%20effect/index.html
+57. Animated Like Button using CSS:
+    http://127.0.0.1:5500/57_Animated%20Like%20Button%20using%20CSS/index.html
