@@ -111,3 +111,6 @@ Repository for study https://github.com/codescientists
     http://127.0.0.1:5500/56_Neon%20button%20effect/index.html
 57. Animated Like Button using CSS:
     http://127.0.0.1:5500/57_Animated%20Like%20Button%20using%20CSS/index.html
+58. Clip Path: http://127.0.0.1:5500/58_Clip%20Path/index.html
+59. Cool css loader: http://127.0.0.1:5500/59_Cool%20css%20loader/index.html
+60.
