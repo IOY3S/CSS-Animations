@@ -113,4 +113,7 @@ Repository for study https://github.com/codescientists
     http://127.0.0.1:5500/57_Animated%20Like%20Button%20using%20CSS/index.html
 58. Clip Path: http://127.0.0.1:5500/58_Clip%20Path/index.html
 59. Cool css loader: http://127.0.0.1:5500/59_Cool%20css%20loader/index.html
-60.
+60. Glowing Text using CSS:
+    http://127.0.0.1:5500/60_Glowing%20Text%20using%20CSS/index.html
+61. Neon text using css:
+    http://127.0.0.1:5500/61_Neon%20text%20using%20css/index.html
