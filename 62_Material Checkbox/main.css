@@ -1,0 +1,37 @@
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	background-color: #DDDBF1;
+	overflow: hidden;
+}
+
+input {
+	display: none;
+}
+
+label {
+	width: 100px;
+	display: block;
+}
+
+.checkbox {
+	display: block;
+	width: 100px;
+	height: 100px;
+	border-radius: 2px;
+	border: 3px solid #383F51;
+	cursor: pointer;
+	transition: 0.375s;
+}
+
+input:checked~.checkbox {
+	rotate: 45deg;
+	translate: 15px -8px;
+	width: 40px;
+	border-color: #1cc39b;
+	border-top-color: transparent;
+	border-left-color: transparent;
+	border-radius: 0;
+}

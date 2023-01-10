@@ -117,3 +117,4 @@ Repository for study https://github.com/codescientists
     http://127.0.0.1:5500/60_Glowing%20Text%20using%20CSS/index.html
 61. Neon text using css:
     http://127.0.0.1:5500/61_Neon%20text%20using%20css/index.html
+62. Material Checkbox: http://127.0.0.1:5500/62_Material%20Checkbox/index.html
