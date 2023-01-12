@@ -1,6 +1,7 @@
 # css-animations
 
-Repository for study https://github.com/codescientists
+- Repository for study: https://github.com/codescientists
+- Repository for study: https://github.com/frontendcharm/Mini-Projects
 
 1. Animated Gradient Border:
    http://127.0.0.1:5500/01_Animated%20Gradient%20Border/index.html
@@ -120,3 +121,6 @@ Repository for study https://github.com/codescientists
 62. Material Checkbox: http://127.0.0.1:5500/62_Material%20Checkbox/index.html
 63. Background Color Animation CSS:
     http://127.0.0.1:5500/63_Background%20Color%20Animation%20CSS/index.html
+64. Buttons:  
+    64.1. Add To Cart Interaction:
+    http://127.0.0.1:5500/64_Buttons/64.1_Add%20To%20Cart%20Interaction/index.html
