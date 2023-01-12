@@ -118,3 +118,5 @@ Repository for study https://github.com/codescientists
 61. Neon text using css:
     http://127.0.0.1:5500/61_Neon%20text%20using%20css/index.html
 62. Material Checkbox: http://127.0.0.1:5500/62_Material%20Checkbox/index.html
+63. Background Color Animation CSS:
+    http://127.0.0.1:5500/63_Background%20Color%20Animation%20CSS/index.html
