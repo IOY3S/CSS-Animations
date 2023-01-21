@@ -136,3 +136,5 @@
     http://127.0.0.1:5500/64_Buttons/64.6_Crazy%20Button%20Shape/index.html
     64.7.Download Button MI:
     http://127.0.0.1:5500/64_Buttons/64.7_Download%20Button%20MI/index.html
+    64.8.Mail Button MI:
+    http://127.0.0.1:5500/64_Buttons/64.8_Mail%20Button%20MI/index.html
