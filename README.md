@@ -148,3 +148,5 @@
     http://127.0.0.1:5500/64_Buttons/64.12_Pulse%20Effect%20On%20Button%20Hover/index.html
     64.13.Rainbow Gradient Glowing Effect:
     http://127.0.0.1:5500/64_Buttons/64.13_Rainbow%20Gradient%20Glowing%20Effect/index.html
+    64.14.Send Button Animation:
+    http://127.0.0.1:5500/64_Buttons/64.14_Send%20Button%20Animation/index.html
