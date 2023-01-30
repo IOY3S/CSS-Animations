@@ -150,3 +150,5 @@
     http://127.0.0.1:5500/64_Buttons/64.13_Rainbow%20Gradient%20Glowing%20Effect/index.html
     64.14.Send Button Animation:
     http://127.0.0.1:5500/64_Buttons/64.14_Send%20Button%20Animation/index.html
+    64.15.Shine Effect On Button Hover:
+    http://127.0.0.1:5500/64_Buttons/64.15_Shine%20Effect%20On%20Button%20Hover/index.html
