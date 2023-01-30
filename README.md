@@ -154,3 +154,5 @@
     http://127.0.0.1:5500/64_Buttons/64.15_Shine%20Effect%20On%20Button%20Hover/index.html
     64.16.Sliced Effect On Button Hover:
     http://127.0.0.1:5500/64_Buttons/64.16_Sliced%20Effect%20On%20Button%20Hover/index.html
+    64.17.Sliding Button On Hover Effect:
+    http://127.0.0.1:5500/64_Buttons/64.17_Sliding%20Button%20On%20Hover%20Effect/index.html
