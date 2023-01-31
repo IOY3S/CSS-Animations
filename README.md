@@ -156,3 +156,6 @@
     http://127.0.0.1:5500/64_Buttons/64.16_Sliced%20Effect%20On%20Button%20Hover/index.html
     64.17.Sliding Button On Hover Effect:
     http://127.0.0.1:5500/64_Buttons/64.17_Sliding%20Button%20On%20Hover%20Effect/index.html
+65. Custom animations:  
+    65.1.Blob Effect Micro Interaction:
+    http://127.0.0.1:5500/65_Custom%20animations/65.1_Blob%20Effect%20Micro%20Interaction/index.html
